@@ -1,5 +1,4 @@
-From William West to Everyone:  08:17 PM
-  
+
 def my_hash
 
 hashBrown = {
